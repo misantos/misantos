@@ -1,4 +1,4 @@
-<h1 align="center">Olá, seja muito bem vindo(a)! Eu me chamo Milena</h1>
+<h1 align="center">Olá, seja muito bem vindo(a)! Eu sou a Milena</h1>
 <h3 align="center">Me apaixonei por TI quando conheci a área de Inteligência Artificial</h3>
 
 - 🌱 Estou buscando aprender mais sobre **Python e Ciência de Dados**
