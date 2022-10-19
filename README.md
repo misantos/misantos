@@ -1,13 +1,11 @@
-<h1 align="center">Olá, seja muito bem vindo(a)! Eu sou a Milena</h1>
-<h3 align="center">Me apaixonei por TI quando conheci a área de Inteligência Artificial</h3>
+<h1 align="center">Olá, eu sou a Milena</h1>
 
-- 🌱 Estou buscando aprender mais sobre **Python e Ciência de Dados**
 
-- 📝 Tenho artigos publicados em eventos e livro [https://sol.sbc.org.br/index.php/latinoware/article/view/18617](https://sol.sbc.org.br/index.php/latinoware/article/view/18617)
+- 🌱 Gosto de estudar sobre **Aprendizado de Máquina, Aprendizado Profundo, Ciência de Dados e Visão Computacional**
 
-- 💬 Me pergunte sobre **YOLO, treinamento de modelos de Deep Learning e Machine Learning**
+- 💬 Me pergunte sobre **Redes Neurais Convolucionais, Python, YOLO e Darknet**
 
-- 📫 Meu email é **milenalucassantos@gmail.com**
+- 📫 Email: **milenalucassantos@gmail.com**
 
 - 📄 Meu currículo [https://drive.google.com/file/d/1VA3eAQCPplaOq6YyaYwfUmihfM74bozn/view?usp=sharing](https://drive.google.com/file/d/1VA3eAQCPplaOq6YyaYwfUmihfM74bozn/view?usp=sharing)
 
